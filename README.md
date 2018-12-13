@@ -112,7 +112,7 @@ A number of schools have their own reading lists for graduate students in databa
 # Other reading links
 these are best papers:
 
-'''
+```
 http://www.redbook.io
 http://www.redbook.io/pdf/redbook-5th-edition.pdf
 https://github.com/rxin/db-readings 
@@ -120,4 +120,4 @@ http://redbook.cs.berkeley.edu/bib4.html
 http://redbook.cs.berkeley.edu/bib3.html 
 http://redbook.cs.berkeley.edu/bib2.html
 http://redbook.cs.berkeley.edu/bib1.html 
-'''
+```
